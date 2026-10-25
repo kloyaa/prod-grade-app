@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da80b366d25eab7d",
+        "id": "272accde01762fef",
         "type": "tabs",
         "children": [
           {
-            "id": "8960ea54ec5059ad",
+            "id": "a27075df8e6bceb3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -192,12 +196,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35ccb2ae883c8ddc",
+  "active": "a27075df8e6bceb3",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "Welcome.md",
     "Untitled.canvas",
     "Untitled.base",
     "2026-10-25.md",
-    "Untitled",
-    "Welcome.md"
+    "Untitled"
   ]
 }
