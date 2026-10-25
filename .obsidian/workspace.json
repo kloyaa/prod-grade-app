@@ -155,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,11 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "38c87ef91b857fcb",
+  "active": "35ccb2ae883c8ddc",
   "lastOpenFiles": [
+    "Untitled.canvas",
     "Untitled.base",
     "2026-10-25.md",
-    "Untitled.canvas",
     "Untitled",
     "Welcome.md"
   ]
